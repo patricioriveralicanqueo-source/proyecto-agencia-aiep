@@ -44,3 +44,4 @@ document.getElementById("formContacto").addEventListener("submit", function(even
     
     document.getElementById("formContacto").reset();
 });
+// Version 1.0 - Funcionalidad de galería implementada
